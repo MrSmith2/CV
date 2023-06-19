@@ -1,1 +1,1 @@
-Repo for hosting pdf resume on Git Pages
+Repo for hosting pdf LaTeX resume on Git Pages
