@@ -1,1 +1,1 @@
-Repo for hosting GIt Pages pdf resume
+Repo for hosting pdf resume on Git Pages
